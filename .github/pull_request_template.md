@@ -1,13 +1,23 @@
-## Description
+## 📝 Description
+<!-- Briefly describe what changed and why. -->
 
-## ClickUp Ticket
-Ticket link: https://app.clickup.com/t/your-ticket-id
 
-Ticket type (select one):
-- [ ] Feature
-- [ ] Maintenance
-- [ ] Bug
+## 🔗 ClickUp Ticket
+Ticket link: https://app.clickup.com/t/
 
-## Related PRs
-Other PRs of this feature in any repository (backend, mobile, CMS), one link per line. Leave empty if there are none.
-- 
+**Ticket Type:**
+- [ ] 🚀 Feature
+- [ ] 🛠️ Maintenance
+- [ ] 🐛 Bug Fix
+
+
+## 🔧 Changes Made
+<!-- List the main changes introduced in this PR. -->
+
+
+## 🧪 Testing
+<!-- Briefly explain how the changes were tested. -->
+
+
+## 📌 Additional Notes
+<!-- Breaking changes, deployment considerations, or anything reviewers should know. Remove if not applicable. -->
