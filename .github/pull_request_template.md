@@ -2,10 +2,12 @@
 <!-- Briefly describe what changed and why. -->
 
 
-## 🔗 ClickUp Ticket
-Ticket link: https://app.clickup.com/t/
+## 🔗 Linked Issue
+Resolves #
 
-**Ticket Type:**
+<!-- Use "Resolves #<number>" (or "Resolves owner/repo#<number>" for another repository). GitHub links the Issue and closes it when this PR merges, and Nabih checks the change against the Issue's approved specification. -->
+
+**Type:**
 - [ ] 🚀 Feature
 - [ ] 🛠️ Maintenance
 - [ ] 🐛 Bug Fix
